@@ -4,8 +4,9 @@
     "\\public",
     "\\public\\image",
     "\\public\\image\\png",
+    "\\public\\image\\png\\family",
     "\\public\\image\\svg"
   ],
-  "SelectedNode": "\\public\\image\\png",
+  "SelectedNode": "\\public\\image\\png\\family\\5.jpg",
   "PreviewInSolutionExplorer": false
 }
